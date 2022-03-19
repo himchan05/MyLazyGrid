@@ -11,6 +11,7 @@
 		0E2837A627E5A194009EE53A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2837A527E5A194009EE53A /* ContentView.swift */; };
 		0E2837A827E5A1A7009EE53A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E2837A727E5A1A7009EE53A /* Assets.xcassets */; };
 		0E2837AB27E5A1A7009EE53A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E2837AA27E5A1A7009EE53A /* Preview Assets.xcassets */; };
+		0E2837B227E5E479009EE53A /* BasicCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2837B127E5E479009EE53A /* BasicCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0E2837A527E5A194009EE53A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0E2837A727E5A1A7009EE53A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E2837AA27E5A1A7009EE53A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0E2837B127E5E479009EE53A /* BasicCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0E2837A327E5A194009EE53A /* MyLazyGridApp.swift */,
 				0E2837A527E5A194009EE53A /* ContentView.swift */,
+				0E2837B127E5E479009EE53A /* BasicCard.swift */,
 				0E2837A727E5A1A7009EE53A /* Assets.xcassets */,
 				0E2837A927E5A1A7009EE53A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E2837B227E5E479009EE53A /* BasicCard.swift in Sources */,
 				0E2837A627E5A194009EE53A /* ContentView.swift in Sources */,
 				0E2837A427E5A194009EE53A /* MyLazyGridApp.swift in Sources */,
 			);
